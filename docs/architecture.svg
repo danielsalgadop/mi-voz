@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="2742.8571"
-     inkscape:cy="560"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="3718.4938"
+     inkscape:cy="743.90697"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -236,35 +236,35 @@
     <text
        id="text4765"
        y="34.684521"
-       x="850.44672"
+       x="856.10004"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan4763"
          style="stroke-width:0.26458332"
          y="34.684521"
-         x="850.44672"
+         x="856.10004"
          sodipodi:role="line">Companies(n) </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="940.4054"
-       y="34.684521"
+       x="1161.272"
+       y="37.357216"
        id="text4769"><tspan
          sodipodi:role="line"
-         x="940.4054"
-         y="34.684521"
+         x="1161.272"
+         y="37.357216"
          style="stroke-width:0.26458332"
-         id="tspan4767">Documents(n) </tspan></text>
+         id="tspan4767">Documents(n) ???</tspan></text>
     <text
        id="text4773"
        y="34.684521"
-       x="1056.8221"
+       x="959.75208"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan4771"
          style="stroke-width:0.26458332"
          y="34.684521"
-         x="1056.8221"
+         x="959.75208"
          sodipodi:role="line">Recordings(n) </tspan></text>
     <text
        xml:space="preserve"
@@ -277,5 +277,16 @@
          x="777.11902"
          y="117.83929"
          style="stroke-width:0.26458332">Admin public site</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1073.7281"
+       y="35.610405"
+       id="text2006"><tspan
+         sodipodi:role="line"
+         id="tspan2004"
+         x="1073.7281"
+         y="35.610405"
+         style="stroke-width:0.26458332">Agenda</tspan></text>
   </g>
 </svg>
