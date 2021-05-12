@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="2742.8571"
-     inkscape:cy="560"
+     inkscape:cx="2928.0017"
+     inkscape:cy="672.90787"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +63,7 @@
          id="tspan817"
          x="-75.973244"
          y="53.583332"
-         style="stroke-width:0.26458332">PUBLICO</tspan></text>
+         style="stroke-width:0.26458332">PUBLIC</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -74,7 +74,7 @@
          id="tspan821"
          x="-75.973244"
          y="183.60715"
-         style="stroke-width:0.26458332">PRIVADO</tspan></text>
+         style="stroke-width:0.26458332">PRIVATE</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect825"
@@ -114,14 +114,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="188.39272"
+       x="187.86356"
        y="162.99092"
        id="text829"><tspan
          sodipodi:role="line"
          id="tspan827"
-         x="188.39272"
+         x="187.86356"
          y="162.99092"
-         style="stroke-width:0.26458332">persona CRUD</tspan></text>
+         style="stroke-width:0.26458332">contact CRUD</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -132,29 +132,18 @@
          id="tspan831"
          x="188.76994"
          y="185.46211"
-         style="stroke-width:0.26458332">compañia  CRUD</tspan></text>
+         style="stroke-width:0.26458332">company  CRUD</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="188.76994"
-       y="207.72142"
-       id="text837"><tspan
-         sodipodi:role="line"
-         x="188.76994"
-         y="207.72142"
-         style="stroke-width:0.26458332"
-         id="tspan839">documento  CRUD</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="188.76994"
-       y="228.01962"
+       x="189.52589"
+       y="208.36487"
        id="text845"><tspan
          sodipodi:role="line"
          id="tspan843"
-         x="188.76994"
-         y="228.01962"
-         style="stroke-width:0.26458332">grabacion  CRUD</tspan></text>
+         x="189.52589"
+         y="208.36487"
+         style="stroke-width:0.26458332">recording CRUD</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -165,21 +154,128 @@
          id="tspan843-7"
          x="196.13605"
          y="42.139957"
-         style="stroke-width:0.26458332">grabacion  R</tspan></text>
+         style="stroke-width:0.26458332">contactProposal</tspan><tspan
+         sodipodi:role="line"
+         x="196.13605"
+         y="55.369125"
+         style="stroke-width:0.26458332"
+         id="tspan2008">companyProposal</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="481.2442"
-       y="-62.833332"
+       x="1093.9235"
+       y="-58.297623"
+       id="text4732"><tspan
+         sodipodi:role="line"
+         id="tspan4730"
+         x="1093.9235"
+         y="-58.297623"
+         style="stroke-width:0.26458332">Loged Owner</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.1688062;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6"
+       width="557.77106"
+       height="219.10439"
+       x="1072.4559"
+       y="-15.903378" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1087.8917"
+       y="34.684521"
+       id="text4757"><tspan
+         sodipodi:role="line"
+         x="1087.8917"
+         y="34.684521"
+         style="stroke-width:0.26458332"
+         id="tspan4759">Contacts(n) </tspan></text>
+    <text
+       id="text4765"
+       y="34.684521"
+       x="1178.2111"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan4763"
+         style="stroke-width:0.26458332"
+         y="34.684521"
+         x="1178.2111"
+         sodipodi:role="line">Companies(n) </tspan></text>
+    <text
+       id="text4773"
+       y="34.684521"
+       x="1281.8619"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan4771"
+         style="stroke-width:0.26458332"
+         y="34.684521"
+         x="1281.8619"
+         sodipodi:role="line">Recordings(n) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1099.231"
+       y="117.83929"
+       id="text4777"><tspan
+         sodipodi:role="line"
+         id="tspan4775"
+         x="1099.231"
+         y="117.83929"
+         style="stroke-width:0.26458332">Admin public site</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1395.8373"
+       y="35.610405"
+       id="text2006"><tspan
+         sodipodi:role="line"
+         id="tspan2004"
+         x="1395.8373"
+         y="35.610405"
+         style="stroke-width:0.26458332">Agenda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="192.76785"
+       y="228.96428"
+       id="text2012"><tspan
+         sodipodi:role="line"
+         id="tspan2010"
+         x="192.76785"
+         y="228.96428"
+         style="stroke-width:0.26458332">Schedule CRUD</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.78951806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6-3"
+       width="323.04916"
+       height="172.61462"
+       x="442.85938"
+       y="-14.581121" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="452.79962"
+       y="-54.621948"
+       id="text4732-6"><tspan
+         sodipodi:role="line"
+         id="tspan4730-7"
+         x="452.79962"
+         y="-54.621948"
+         style="stroke-width:0.26458332">Public site</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="859.76227"
+       y="-57.562748"
        id="text4722"><tspan
          sodipodi:role="line"
          id="tspan4720"
-         x="481.2442"
-         y="-62.833332"
+         x="859.76227"
+         y="-57.562748"
          style="stroke-width:0.26458332">Fist login ever</tspan></text>
     <g
        id="g4753"
-       transform="translate(-17.92872)">
+       transform="translate(371.17262,-19.675846)">
       <rect
          y="-20.122023"
          x="459.61905"
@@ -207,75 +303,39 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="771.81152"
-       y="-58.297623"
-       id="text4732"><tspan
+       x="568.47614"
+       y="12.761905"
+       id="text2144"><tspan
          sodipodi:role="line"
-         id="tspan4730"
-         x="771.81152"
-         y="-58.297623"
-         style="stroke-width:0.26458332">Loged Owner</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.1688062;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect825-5-6"
-       width="557.77106"
-       height="219.10439"
-       x="750.34369"
-       y="-15.903378" />
+         id="tspan2142"
+         x="568.47614"
+         y="12.761905"
+         style="stroke-width:0.26458332">contatProposal</tspan><tspan
+         sodipodi:role="line"
+         x="568.47614"
+         y="25.991072"
+         style="stroke-width:0.26458332"
+         id="tspan2146">companyProposal</tspan><tspan
+         sodipodi:role="line"
+         x="568.47614"
+         y="39.220238"
+         style="stroke-width:0.26458332"
+         id="tspan2148" /><tspan
+         sodipodi:role="line"
+         x="568.47614"
+         y="52.449402"
+         style="stroke-width:0.26458332"
+         id="tspan2150">Recordings</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="765.77972"
-       y="34.684521"
-       id="text4757"><tspan
+       x="251.73215"
+       y="58.119045"
+       id="text2154"><tspan
          sodipodi:role="line"
-         x="765.77972"
-         y="34.684521"
-         style="stroke-width:0.26458332"
-         id="tspan4759">Contacts(n) </tspan></text>
-    <text
-       id="text4765"
-       y="34.684521"
-       x="850.44672"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         id="tspan4763"
-         style="stroke-width:0.26458332"
-         y="34.684521"
-         x="850.44672"
-         sodipodi:role="line">Companies(n) </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="940.4054"
-       y="34.684521"
-       id="text4769"><tspan
-         sodipodi:role="line"
-         x="940.4054"
-         y="34.684521"
-         style="stroke-width:0.26458332"
-         id="tspan4767">Documents(n) </tspan></text>
-    <text
-       id="text4773"
-       y="34.684521"
-       x="1056.8221"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         id="tspan4771"
-         style="stroke-width:0.26458332"
-         y="34.684521"
-         x="1056.8221"
-         sodipodi:role="line">Recordings(n) </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="777.11902"
-       y="117.83929"
-       id="text4777"><tspan
-         sodipodi:role="line"
-         id="tspan4775"
-         x="777.11902"
-         y="117.83929"
-         style="stroke-width:0.26458332">Admin public site</tspan></text>
+         id="tspan2152"
+         x="251.73215"
+         y="67.482811"
+         style="stroke-width:0.26458332"></tspan></text>
   </g>
 </svg>
