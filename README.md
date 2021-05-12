@@ -11,7 +11,7 @@ Manager for actors/actress known as owner, to store contacts, companies, documen
 - Person: contact with interest for owner
 - Companiy: can contain n persons. Has interest for owner
 - Document: text with interest for owner
-- Recording: audio recorded by Owner
+- Recording: audio recorded by Ownerr
 
 ## Zones
 
