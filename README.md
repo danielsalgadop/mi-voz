@@ -1,6 +1,6 @@
 # a-voces
 
-Manager for actors/actress known as owner, to store contacts, companies, documents and recordings. Also it has a public interface so they can show their work 
+Manager for actors/actress known as owner, to store contacts, companies, documents and recordings. Also it has a public interface so they can show their work
 
 ## Despcription
 
@@ -32,6 +32,7 @@ Manager for actors/actress known as owner, to store contacts, companies, documen
 
 ## TODO
 
+- rename person as contact
 - Login system
 - database schema
 
