@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="2928.0017"
-     inkscape:cy="672.90787"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="3495.3879"
+     inkscape:cy="-602.5583"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -262,43 +262,47 @@
          x="452.79962"
          y="-54.621948"
          style="stroke-width:0.26458332">Public site</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="859.76227"
-       y="-57.562748"
-       id="text4722"><tspan
-         sodipodi:role="line"
-         id="tspan4720"
-         x="859.76227"
-         y="-57.562748"
-         style="stroke-width:0.26458332">Fist login ever</tspan></text>
     <g
-       id="g4753"
-       transform="translate(371.17262,-19.675846)">
-      <rect
-         y="-20.122023"
-         x="459.61905"
-         height="49.136902"
-         width="154.21428"
-         id="rect825-5"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="g878"
+       transform="translate(0,-124.35419)">
       <text
-         id="text4726"
-         y="2.1785715"
-         x="473.30594"
+         id="text4722"
+         y="-57.562748"
+         x="859.76227"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332"
+           y="-57.562748"
+           x="859.76227"
+           id="tspan4720"
+           sodipodi:role="line">Fist login ever</tspan></text>
+      <g
+         transform="translate(371.17262,-19.675846)"
+         id="g4753">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect825-5"
+           width="154.21428"
+           height="49.136902"
+           x="459.61905"
+           y="-20.122023" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="473.30594"
            y="2.1785715"
-           x="473.30594"
-           id="tspan4724"
-           sodipodi:role="line">name</tspan><tspan
-           id="tspan4728"
-           style="stroke-width:0.26458332"
-           y="15.407738"
-           x="473.30594"
-           sodipodi:role="line">password</tspan></text>
+           id="text4726"><tspan
+             sodipodi:role="line"
+             id="tspan4724"
+             x="473.30594"
+             y="2.1785715"
+             style="stroke-width:0.26458332">name</tspan><tspan
+             sodipodi:role="line"
+             x="473.30594"
+             y="15.407738"
+             style="stroke-width:0.26458332"
+             id="tspan4728">password</tspan></text>
+      </g>
     </g>
     <text
        xml:space="preserve"
@@ -336,6 +340,473 @@
          id="tspan2152"
          x="251.73215"
          y="67.482811"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.51342189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6-36"
+       width="240.91023"
+       height="97.884872"
+       x="697.54675"
+       y="299.39633" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="742.34528"
+       y="283.46851"
+       id="text897"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="742.34528"
+         y="283.46851"
+         style="stroke-width:0.26458332">contact/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="706.66058"
+       y="315.05893"
+       id="text901"><tspan
+         sodipodi:role="line"
+         id="tspan899"
+         x="706.66058"
+         y="315.05893"
+         style="stroke-width:0.26458332">name1: apellido: [telf]: [email]:<tspan
+   style="fill:#0000ff"
+   id="tspan958">company</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="706.66058"
+         y="328.28809"
+         style="stroke-width:0.26458332"
+         id="tspan905">name2: apellido: [telf]: [email]:company</tspan><tspan
+         sodipodi:role="line"
+         x="706.66058"
+         y="341.51727"
+         style="stroke-width:0.26458332"
+         id="tspan907">name3: apellido: [telf]: [email]:company</tspan><tspan
+         sodipodi:role="line"
+         x="706.66058"
+         y="354.74643"
+         style="stroke-width:0.26458332"
+         id="tspan909">name4: apellido: [telf]: [email]:company</tspan><tspan
+         sodipodi:role="line"
+         x="706.66058"
+         y="367.97559"
+         style="stroke-width:0.26458332"
+         id="tspan911">name5: apellido: [telf]: [email]:company</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.59373176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6-36-7"
+       width="240.82993"
+       height="130.946"
+       x="695.82617"
+       y="465.47278" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="741.11371"
+       y="449.50485"
+       id="text897-5"><tspan
+         sodipodi:role="line"
+         id="tspan895-3"
+         x="741.11371"
+         y="449.50485"
+         style="stroke-width:0.26458332">contact/{id}</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.51342189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6-36-70"
+       width="240.91023"
+       height="97.88488"
+       x="1068.0931"
+       y="304.36108" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1141.2223"
+       y="281.48428"
+       id="text897-9"><tspan
+         sodipodi:role="line"
+         id="tspan895-36"
+         x="1141.2223"
+         y="281.48428"
+         style="stroke-width:0.26458332">company/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1077.207"
+       y="320.02371"
+       id="text901-0"><tspan
+         sodipodi:role="line"
+         id="tspan899-6"
+         x="1077.207"
+         y="320.02371"
+         style="stroke-width:0.26458332">name1: [telf]: [web]:<tspan
+   style="fill:#0000ff;stroke-width:0.26458332"
+   id="tspan958-2">company</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1077.207"
+         y="333.25287"
+         style="stroke-width:0.26458332"
+         id="tspan911-7">name1: [telf]: [web]:company</tspan><tspan
+         sodipodi:role="line"
+         x="1077.207"
+         y="346.48206"
+         style="stroke-width:0.26458332"
+         id="tspan1029">name1: [telf]: [web]:company</tspan><tspan
+         sodipodi:role="line"
+         x="1077.207"
+         y="359.71121"
+         style="stroke-width:0.26458332"
+         id="tspan1033">name1: [telf]: [web]:company</tspan><tspan
+         sodipodi:role="line"
+         x="1077.207"
+         y="372.94037"
+         style="stroke-width:0.26458332"
+         id="tspan1035" /><tspan
+         sodipodi:role="line"
+         x="1077.207"
+         y="386.16956"
+         style="stroke-width:0.26458332"
+         id="tspan1031" /></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.51342189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6-36-7-9"
+       width="240.91023"
+       height="97.884888"
+       x="1066.3324"
+       y="470.39737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1111.6602"
+       y="454.4696"
+       id="text897-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan895-3-0"
+         x="1111.6602"
+         y="454.4696"
+         style="stroke-width:0.26458332">company/{id}</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15680061;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6-36-7-5"
+       width="87.802658"
+       height="25.050131"
+       x="850.6543"
+       y="372.23102" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="868.62598"
+       y="386.15253"
+       id="text1054"><tspan
+         sodipodi:role="line"
+         id="tspan1052"
+         x="868.62598"
+         y="386.15253"
+         style="stroke-width:0.26458332">ADD</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15680061;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6-36-7-5-9"
+       width="87.802658"
+       height="25.050131"
+       x="1221.2008"
+       y="377.1958" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1239.1725"
+       y="391.11734"
+       id="text1054-2"><tspan
+         sodipodi:role="line"
+         id="tspan1052-2"
+         x="1239.1725"
+         y="391.11734"
+         style="stroke-width:0.26458332">ADD</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.58029568;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6-36-7-8"
+       width="240.84337"
+       height="125.0795"
+       x="414.1174"
+       y="460.07458" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="438.32202"
+       y="474.7731"
+       id="text1094"><tspan
+         sodipodi:role="line"
+         x="438.32202"
+         y="474.7731"
+         style="stroke-width:0.26458332"
+         id="tspan1096">nombre</tspan><tspan
+         sodipodi:role="line"
+         x="438.32202"
+         y="488.00226"
+         style="stroke-width:0.26458332"
+         id="tspan1100">apellido</tspan><tspan
+         sodipodi:role="line"
+         x="438.32202"
+         y="501.23145"
+         style="stroke-width:0.26458332"
+         id="tspan1102">telf[]</tspan><tspan
+         sodipodi:role="line"
+         x="438.32202"
+         y="514.46063"
+         style="stroke-width:0.26458332"
+         id="tspan1104">email[]</tspan><tspan
+         sodipodi:role="line"
+         x="438.32202"
+         y="527.68982"
+         style="stroke-width:0.26458332"
+         id="tspan1106">web[]</tspan><tspan
+         sodipodi:role="line"
+         x="438.32202"
+         y="540.91895"
+         style="stroke-width:0.26458332"
+         id="tspan1118">company</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect1108"
+       width="94.078873"
+       height="10.156241"
+       x="484.42133"
+       y="466.28485" />
+    <rect
+       y="479.51407"
+       x="484.42133"
+       height="10.156241"
+       width="94.078873"
+       id="rect1110"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect1112"
+       width="94.078873"
+       height="10.156241"
+       x="484.42133"
+       y="492.21405" />
+    <rect
+       y="505.44324"
+       x="484.42133"
+       height="10.156241"
+       width="94.078873"
+       id="rect1114"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect1116"
+       width="94.078873"
+       height="10.156241"
+       x="484.42133"
+       y="519.2016" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.41064689;stroke-opacity:1"
+       id="rect1116-9"
+       width="83.242027"
+       height="27.649965"
+       x="497.72888"
+       y="534.44727" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.21129107;stroke-opacity:1"
+       id="rect1108-7"
+       width="56.714432"
+       height="10.744073"
+       x="524.25647"
+       y="534.44727" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="514.44141"
+       y="556.5575"
+       id="text1152"><tspan
+         sodipodi:role="line"
+         id="tspan1150"
+         x="514.44141"
+         y="556.5575"
+         style="stroke-width:0.26458332">compañia 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="441.52924"
+       y="442.16623"
+       id="text1156"><tspan
+         sodipodi:role="line"
+         id="tspan1154"
+         x="441.52924"
+         y="442.16623"
+         style="stroke-width:0.26458332">contact/add</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="732.60339"
+       y="485.41757"
+       id="text1094-3"><tspan
+         sodipodi:role="line"
+         x="732.60339"
+         y="485.41757"
+         style="stroke-width:0.26458332"
+         id="tspan1096-6">nombre</tspan><tspan
+         sodipodi:role="line"
+         x="732.60339"
+         y="498.64673"
+         style="stroke-width:0.26458332"
+         id="tspan1100-1">apellido</tspan><tspan
+         sodipodi:role="line"
+         x="732.60339"
+         y="511.87592"
+         style="stroke-width:0.26458332"
+         id="tspan1102-2">telf[]</tspan><tspan
+         sodipodi:role="line"
+         x="732.60339"
+         y="525.1051"
+         style="stroke-width:0.26458332"
+         id="tspan1104-9">email[]</tspan><tspan
+         sodipodi:role="line"
+         x="732.60339"
+         y="538.33429"
+         style="stroke-width:0.26458332"
+         id="tspan1106-3">web[]</tspan><tspan
+         sodipodi:role="line"
+         x="732.60339"
+         y="551.56342"
+         style="stroke-width:0.26458332"
+         id="tspan1118-1">company</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect1108-9"
+       width="94.078873"
+       height="10.156241"
+       x="778.7027"
+       y="476.92932" />
+    <rect
+       y="490.15854"
+       x="778.7027"
+       height="10.156241"
+       width="94.078873"
+       id="rect1110-4"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect1112-7"
+       width="94.078873"
+       height="10.156241"
+       x="778.7027"
+       y="502.85852" />
+    <rect
+       y="516.08771"
+       x="778.7027"
+       height="10.156241"
+       width="94.078873"
+       id="rect1114-8"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect1116-4"
+       width="94.078873"
+       height="10.156241"
+       x="778.7027"
+       y="529.84619" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.41064689;stroke-opacity:1"
+       id="rect1116-9-5"
+       width="83.242027"
+       height="27.649965"
+       x="792.01019"
+       y="545.09192" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.21129107;stroke-opacity:1"
+       id="rect1108-7-0"
+       width="56.714432"
+       height="10.744073"
+       x="818.53784"
+       y="545.09192" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="808.72278"
+       y="567.20221"
+       id="text1152-3"><tspan
+         sodipodi:role="line"
+         id="tspan1150-6"
+         x="808.72278"
+         y="567.20221"
+         style="stroke-width:0.26458332">compañia 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1087.787"
+       y="485.15775"
+       id="text1304"><tspan
+         sodipodi:role="line"
+         x="1087.787"
+         y="485.15775"
+         style="stroke-width:0.26458332"
+         id="tspan1306">nombre</tspan><tspan
+         sodipodi:role="line"
+         x="1087.787"
+         y="498.3869"
+         style="stroke-width:0.26458332"
+         id="tspan1316">telf[]</tspan><tspan
+         sodipodi:role="line"
+         x="1087.787"
+         y="511.61609"
+         style="stroke-width:0.26458332"
+         id="tspan1320">web</tspan><tspan
+         sodipodi:role="line"
+         x="1087.787"
+         y="524.84521"
+         style="stroke-width:0.26458332"
+         id="tspan1322">workers</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.41064689;stroke-opacity:1"
+       id="rect1116-9-5-1"
+       width="83.242027"
+       height="27.649965"
+       x="1133.2958"
+       y="518.37219" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.21129107;stroke-opacity:1"
+       id="rect1108-7-0-0"
+       width="56.714432"
+       height="10.744073"
+       x="1159.8234"
+       y="518.37219" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1150.0083"
+       y="540.48248"
+       id="text1152-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan1150-6-3"
+         x="1150.0083"
+         y="540.48248"
+         style="stroke-width:0.26458332">contacto 1</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect1108-9-2"
+       width="94.078873"
+       height="10.156241"
+       x="1133.2228"
+       y="477.40692" />
+    <rect
+       y="491.16519"
+       x="1133.2228"
+       height="10.156241"
+       width="94.078873"
+       id="rect1363"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect1365"
+       width="94.078873"
+       height="10.156241"
+       x="1133.2228"
+       y="504.39438" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1199.5056,536.4735 3.2073,-1.60364"
+       id="path1367"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
