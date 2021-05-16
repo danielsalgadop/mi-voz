@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="4190.3293"
-     inkscape:cy="-722.4647"
+     inkscape:zoom="0.35"
+     inkscape:cx="6791.9981"
+     inkscape:cy="-878.62571"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1026,12 +1026,12 @@
          style="stroke-width:0.26458332"
          id="tspan1285">web</tspan></text>
     <rect
-       y="470.39737"
-       x="1394.4132"
-       height="97.884888"
-       width="240.91023"
+       y="470.4325"
+       x="1394.4484"
+       height="126.54082"
+       width="240.83998"
        id="rect1287"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.51342189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.58367163;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text1291"
        y="454.4696"
@@ -1281,7 +1281,12 @@
          id="tspan1458"
          x="1693.3333"
          y="510.93451"
-         style="stroke-width:0.26458332">name</tspan></text>
+         style="stroke-width:0.26458332">name</tspan><tspan
+         sodipodi:role="line"
+         x="1693.3333"
+         y="524.1637"
+         style="stroke-width:0.26458332"
+         id="tspan1491">publish</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15680061;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect825-5-6-36-7-5-9-5-1-2"
@@ -1327,5 +1332,59 @@
          x="1155.9407"
          y="510.54834"
          style="stroke-width:0.26458332">web</tspan></text>
+    <g
+       id="g1517"
+       transform="translate(-34.798767,-51.772949)">
+      <rect
+         y="623.1416"
+         x="883.65222"
+         height="25.050131"
+         width="87.802658"
+         id="rect825-5-6-36-7-5-9-5-1-28"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15680061;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1054-2-3-2-9"
+         y="637.06317"
+         x="901.6239"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="637.06317"
+           x="901.6239"
+           id="tspan1052-2-5-7-7"
+           sodipodi:role="line">UPDATE</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15680061;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825-5-6-36-7-5-9-5-3"
+       width="87.802658"
+       height="25.050131"
+       x="1394.4484"
+       y="571.92322" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1412.42"
+       y="585.84473"
+       id="text1054-2-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan1052-2-5-1"
+         x="1412.42"
+         y="585.84473"
+         style="stroke-width:0.26458332">DELETE</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect1313-2"
+       width="94.078873"
+       height="10.156241"
+       x="1740.032"
+       y="500.56473" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1576"
+       cx="1781.4017"
+       cy="524.54163"
+       rx="6.4255948"
+       ry="6.8035712" />
   </g>
 </svg>
