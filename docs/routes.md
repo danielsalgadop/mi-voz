@@ -7,20 +7,20 @@ get:/
 ## getters
 get:owner main entry for private zone
 get:owner/details
-get:contact         list of contacts
-get:contact/{id}    detail 1 contact
-get:company         list cof comapanies
-get:company/{id}    detail of {id} company
+get:contacts         list of contacts
+get:contacts/{id}    detail 1 contacts
+get:companies         list cof comapanies
+get:companies/{id}    detail of {id} companies
 get:document
 get:document/{id}
 get:recording
 get:recording/{id}
 
 ## setters
-post:contact
-post:contact/{id}/to/company{id}
-post:company
-post:company/{id}/with/contact/[{ids}]
+post:contacts
+post:contacts/{id}/add/companies{id}
+post:companies
+post:companies/{id}/add/contacts/[{ids}]
 post:document
 post:recording
 
@@ -29,8 +29,8 @@ get:login comes from '/'
 get:fresh-start comes form '/' when there is no owner
 
 
-post:user/register  comes from fresh-start
-post:contact/proposal
-post:contact/register  comes from contact-proposal
-post:company/proposal
-post:company/register  comes from contact-proposal
+post:user/add  comes from fresh-start
+post:contacts/proposal
+post:contacts/add  comes from contacts-proposal
+post:companies/proposal
+post:companies/add  comes from contacts-proposal
