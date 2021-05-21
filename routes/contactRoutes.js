@@ -5,6 +5,10 @@ router.get('/',(req, res) =>{
     res.send('contacts')
 });
 
+router.get('/:id',(req, res) =>{
+    res.send('contacts with id '+req.params.id)
+});
+
 router.post('/',(req, res) =>{
     res.send('POSTcontacts')
 });
