@@ -2,9 +2,9 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-app.get('/', (req, res) => {
-    res.send('Hello world');
-})
+var contactRouter = require('./routes')
+
+app.use('/contacts/', contactRouter);
 
 app.listen(port, () => {
     console.log('listening');
