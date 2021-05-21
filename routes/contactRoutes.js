@@ -5,7 +5,7 @@ router.get('/',(req, res) =>{
     res.send('contacts')
 });
 
-router.get('/:id',(req, res) =>{
+router.get('/:id(\\d+)',(req, res) =>{
     res.send('contacts with id '+req.params.id)
 });
 
