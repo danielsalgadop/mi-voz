@@ -2,7 +2,6 @@ const express = require('express');
 const dotenv = require('dotenv');
 const app = express();
 const port = 3000;
-dotenv.config();
 
 var contactRouter = require('./routes/contactRoutes')
 
