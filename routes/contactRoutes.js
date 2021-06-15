@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const {stablishConnection} = '../connections/MysqlConnection.js';
+const { stablishConnection } = require('../connections/MysqlConnection');
 
 
 
