@@ -1,13 +1,13 @@
 const express = require('express');
 const router = express.Router();
-const { stablishConnection } = require('../connections/MysqlConnection');
+const { connect } = require('../connections/MysqlConnection');
 
 
 
 
 
 router.get('/', (req, res) => {
-    stablishConnection()
+    connect()
     .then((connection) =>{
         let result = connection.query('SELECT * from contact',
         function (err, rows, fields) {

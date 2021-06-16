@@ -2,7 +2,7 @@ const mysql = require('mysql');
 const dotenv = require('dotenv');
 dotenv.config();
 
-module.exports.stablishConnection = () => {
+module.exports.connect = () => {
     return new Promise((resolve,reject)=>{
 
         const connection = mysql.createConnection({
