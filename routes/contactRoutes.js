@@ -7,25 +7,24 @@ const { stablishConnection } = require('../connections/MysqlConnection');
 
 
 router.get('/', (req, res) => {
-    // res.status(200).send('toe');
     stablishConnection()
-    // .then((connection) =>{
-    //     let result = connection.query('SELECT * from contact',
-    //     function (err, rows, fields) {
+    .then((connection) =>{
+        let result = connection.query('SELECT * from contact',
+        function (err, rows, fields) {
 
-    //         let asjson = [];
-    //         var s = "";
-    //         for (var i = 0; i < rows.length; i++) {
-    //             asjson.push({ 'name': rows[i].name, 'surname': rows[i].surname });
-    //         }
-    //         res.end(JSON.stringify(asjson));
-    //     }
-    //     );
-    // })
-    // .catch((error)=>{
-    //     // res.status(500).send(error);
-    //     res.status(500).send('Database Error');
-    // })
+            let asjson = [];
+            var s = "";
+            for (var i = 0; i < rows.length; i++) {
+                asjson.push({ 'name': rows[i].name, 'surname': rows[i].surname });
+            }
+            res.end(JSON.stringify(asjson));
+        }
+        );
+    })
+    .catch((error)=>{
+        // res.status(500).send(error);
+        res.status(500).send('Database Error');
+    })
 });
 
 router.get('/:id(\\d+)', (req, res) => {
