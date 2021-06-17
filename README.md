@@ -35,6 +35,8 @@ Manager tool for voice actors/actress (aka Owner), to manage: schedule contacts,
 
 - Login system
 - database schema
+- swagger
+- express-validator
 
 
 # BACKLOG
